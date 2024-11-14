@@ -25,9 +25,7 @@
                             :items="['دیپلم', 'لیسانس', 'فوق لیسانس', 'دکتری']">
                         </v-select>
                     </v-col>
-                    <!-- <v-col cols="6">
-                        <v-text-field v-model="data.phonenumber" label="تلفن" type="tel"></v-text-field>
-                    </v-col> -->
+                    
                     <v-col cols="6">
                         <v-text-field v-model="data.address" label="آدرس" type="text"></v-text-field>
                     </v-col>
